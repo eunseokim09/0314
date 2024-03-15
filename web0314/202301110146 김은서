@@ -1,0 +1,92 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+<!DOCTYPE html
+html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+    content="width=device-width, initial-scale=1.o">
+    <title>웹문서의제목</title>
+</head>
+<body>
+    <p>my cat is <strong>very</strong>grumpy.</p>
+    <p>at mozilla,we're a global community of</p>
+
+    <u1>
+        <li>technologists</li>
+        <li>thinkers</li>
+        <li>buliders</li>
+    </u1>
+
+    <p>working together</p>
+
+    <P>My cat is <strong>very</strong>grumpy</P>
+    <h1>24년 1학기 수강신청과목</h1>
+    <h2>24년 1학기 수강신청과목</h2>
+    <h3>24년 1학기 수강신청과목</h3>
+    <h4>24년 1학기 수강신청과목</h4>
+    <h5>24년 1학기 수강신청과목</h5>
+    <h6>24년 1학기 수강신청과목</h6>
+    <ul>
+        <li>웹디자인실습기초</li>
+        <li>패키지디자인실습</li>
+    </ul>
+    </ol>
+        <li>웹디자인실습기초</li>
+        <li>패키지디자인실습</li>
+    </ol>
+
+
+<h2>하이퍼링크 테스트</h2>
+<u1> 
+    <li><a href="https://www.naver.com/" target="_blank">네이버</a></li>
+</u1>
+lorem ipsum dolor sit amet consectetur, adipising elit.<br> sint blanditiis bucimus non perspiciatis soluta laborum. Est,numquam cupiditate<br> enim alias maxime natus dolorem id, deatae retione laboriosam nemo voluptas eligendi tenetur fugit at incidunt ipsam expedita vitae labore sequi velit. Ullam quis expedita cumque eligendi ab ab aliquam! maxime,inventore.
+
+<h2>자기소개</h2>
+<img src="capyzou.png" alt="">
+<<h2>연매출비교</h2>
+<table>
+    <thead>
+        <tr>
+            <th>연차</th>
+            <th>매출</th>
+            <th>비고</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1년차</td>
+            <td>100capy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2년차</td>
+            <td>200capy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3년차</td>
+            <td>500capy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4년차</td>
+            <td>800capy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5년차</td>
+            <td>200capy</td>
+            <td>이 해는 가뭄이 심했습니다.</td>
+        </tr>
+        <tr>
+            <td>6년차</td>
+            <td>500capy</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table> 
+
+</body>
+</html> 
